@@ -1,0 +1,4 @@
+m = 3
+while m <= 9:
+    print('*' * m)
+    m += 1
